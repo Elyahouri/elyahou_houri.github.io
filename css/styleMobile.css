@@ -1,0 +1,14 @@
+.imgMission{
+    width:1300px;
+}
+
+@media screen and (max-width: 1200px) {
+    .imgMission {
+        width: 600px;
+    }
+}
+@media screen and (max-width: 600px) {
+    .imgMission {
+        width: 450px;
+    }
+}
